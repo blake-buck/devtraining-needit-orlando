@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Needit Data" max_length="40" name="x_58872_needit_needit_data" sizeclass="10" type="collection">
+        <element label="Must have by" max_length="40" name="must_have_by" type="glide_date"/>
+        <element label="Requested for" max_length="1000" name="requested_for" type="string"/>
+        <element label="What needed" max_length="1000" name="what_needed" type="string"/>
+    </element>
+</database>
